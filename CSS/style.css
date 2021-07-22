@@ -1,0 +1,28 @@
+*
+.header
+{
+  padding: 20px;
+}
+.header img
+{
+width: 150px;
+height: 150px;
+margin-right: 15px;
+border-radius: 50%
+}
+h2 .style
+{
+text-align: center;
+text-decoration: none;
+text-decoration: inherit;
+}
+.qualification .degree_list
+{
+  line-height: 20px;
+  font-size: 15px;
+}
+.hobbies .hobby_list
+{
+  line-height: 20px;
+  font-size: 15px;
+}
